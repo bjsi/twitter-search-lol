@@ -2,7 +2,7 @@
 
 ![gif](https://raw.githubusercontent.com/bjsi/twitter-search-lol/main/search.gif)
 
-Pls fork if you want :). You need to add your own auth/cookie/csrf tokens. Idk if there's a better way to make the request without using the official API.
+Pls fork if you want :). You need to add your own auth/cookie/csrf tokens. Idk if there's a better way to make the request without using the official API. Warning: code is very quick and dirty
 
 ## How To Use
 
